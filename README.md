@@ -1,4 +1,4 @@
 # API_test_python
  Simple API test python.
-useing pytest, that open https://www.demoblaze.com and verify some detiels about product in the cart of extrnal user.
-using in the command line- run pytest
+using pytest, that open https://www.demoblaze.com and verify some detiels about product in the cart of extrnal user.
+for run this test using command line: pytest
